@@ -1,0 +1,15 @@
+water_bottle
+Spoon
+Porcelain
+coffee_table
+Cup
+Plate
+mobile
+Kettle
+Knife
+Tri
+Slipper
+Pot
+cofee_pot
+Bucket
+Shoes

@@ -1,0 +1,20 @@
+path: /content/data
+train: train/images
+val: validation/images
+nc: 15
+names:
+- water_bottle
+- Spoon
+- Porcelain
+- coffee_table
+- Cup
+- Plate
+- mobile
+- Kettle
+- Knife
+- Tri
+- Slipper
+- Pot
+- cofee_pot
+- Bucket
+- Shoes
