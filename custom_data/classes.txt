@@ -7,9 +7,6 @@ Plate
 mobile
 Kettle
 Knife
-Tri
-Slipper
 Pot 
 cofee_pot
 Bucket
-Shoes
