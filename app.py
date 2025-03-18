@@ -13,6 +13,7 @@ model = YOLO('runs/detect/train/weights/best.pt')
 
 # Initialize the Dash app
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+server = app.server
 
 # Define the layout of the app
 app.layout = dbc.Container([
