@@ -1,20 +1,17 @@
 path: /content/data
 train: train/images
 val: validation/images
-nc: 15
+nc: 13
 names:
-- water_bottle
-- Spoon
-- Porcelain
-- coffee_table
-- Cup
-- Plate
-- mobile
-- Kettle
-- Knife
-- Tri
-- Slipper
-- Pot
-- cofee_pot
-- Bucket
-- Shoes
+  - water_bottle
+  - Spoon
+  - Porcelain
+  - coffee_table
+  - Cup
+  - Plate
+  - mobile
+  - Kettle
+  - Knife
+  - Pot
+  - cofee_pot
+  - Bucket

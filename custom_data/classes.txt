@@ -9,7 +9,7 @@ Kettle
 Knife
 Tri
 Slipper
-Pot
+Pot 
 cofee_pot
 Bucket
 Shoes
